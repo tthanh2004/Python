@@ -1,0 +1,16 @@
+Dạng 1 : Dùng lệnh rẽ nhánh hoặc if else
+
+BT1 : Viết chương trình nhập điểm môn học đưa ra điểm chữ
+
+BT2 : Viết CT nhập vào điểm tích lũy -> xếp loại 
+    1. Điểm > 3.6 : Xuất sắc
+    2. 3.2 < Điểm < 3.6 : Giỏi
+    3. 2.5 < Điểm < 3.2 : Khá
+    4. 2.0 < Điểm < 2.5 : Trung bình
+    5. Điểm < 2.0 : Yếu
+
+BT3 : Chương trình nhập vào họ tên , tuổi , giới tính đưa ra lời chào
+    1. Nếu tuổi < 18 : Chào em
+    2. 20 < Tuổi <= 40 : Chào anh/chị
+    3. 40 < Tuổi < 60 : Chào bác
+    4. Tuổi > 60 : Chào ông/bà

@@ -1,0 +1,17 @@
+Dạng 9 Xâu kí tự 
+
+BT 
+1 Vt chg trình nhập vào 1 xâu kí tự 
+- Đổi tất cả các kí tự trong xâu từ hoa thành thường,từ thường thành hoa 
+- Đếm các từ trong xâu kí tự 
+- Đếm số lần suốt hiện của từ trong xâu
+- Loại bỏ các kí tự là chữ số của xâu 
+- In ra các kí tự chỉ xuất hiện 1 lần trong xâu 
+- Chuẩn hóa xâu bằng cách loại bỏ tất cả các khoảng trắng thừa chỉ giữ lại 1
+- Đến và đưa ra các từ có độ dài nhỏ nhất 
+
+2 Vt ch trình nhập vào xâu s1,s2
+- Ktra xem 1 xâu kia có phải là con của xâu hiện tại hay ko
+- Ktra xem 2 xâu có phải là xâu anagram hay ko, 2 xâu là anagram nếu cùng số và cùng kí tự 
+- Ktra xem xâu s1 có phải là xâu đối xứng hay ko
+- Thay thế tất cả các kí tự số trong xâu s2 thành $

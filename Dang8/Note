@@ -1,0 +1,21 @@
+DẠNG 8 : Tập Set()
+
+BT1 : Viet ct nhap vao các phần tử của tập A viec nhap ket thuc khi nguoi dung an enter
+    Nhập vào các phần tử của tập B cho đến khi người dùng nhấn enter
+    1. Kiểm tra xem B có là tập con của A không
+    nếu B không là tập con của A thì đưa các phần tử của B vào A
+    ngược lại đưa ra các phần tử thuộc cả A và B
+    2. Kiểm tra xem A và B có phần tử chung không
+    nếu có thì đưa ra phần tử thuộc A mà không thuộc B
+    ngược lại đưa ra các phần tử không thuộc cả A và B
+    3. Nhập vào một phần tử x nếu x không thuộc cả 2 tập hợp thì thêm x vào cả 2 tập hợp
+    ngược lại x không thuộc tập nào thì thêm vào tập đó
+
+BT2 : Viết chương trình nhập vào số nguyên dương n là số dự án của công ty
+    sau đó nhập lần lượt các mã nv tham gia vào n dự án
+    1. Nhập vào dự án thứ k và thứ m đưa ra danh sách mã nv tham gia dự án k mà không tham gia dự án m
+    2. Đưa ra mã nv của tất cả nhân viên tham gia vào dự án
+    3. Đưa ra tổng số lượng các nhân viên đã tham gia các dự án
+    4. Nhập vào số nguyên dương k đưa ra mã nv đã tham gia dự án k mà không tham gia bất kì dự án nào khác
+    5. Nhập vào dự án thứ m và thứ k kiểm tra xem các nhân viên tham gia trong dự án k đã tham gia m chưa
+    nếu chưa thì thêm vào dự án m

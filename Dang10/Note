@@ -1,0 +1,8 @@
+BT1 : Viết ct tạo 1 từ điển chứa thông tin của sinh viên gồm mã sinh viên , điểm
+    Trong đó key là mã sinh viên value là điểm , việc nhập kết thúc khi mã sinh viên nhập vào là trống
+    Nhập vào 1 mã sinh viên kiểm tra xem mã đã có trong từ điển chưa nếu có xóa sinh viên đó
+    Nếu chưa có thì nhập diểm cho sinh viên đó và nhập và từ điển
+    Đưa ra danh sách sinh viên có điểm lớn nhất
+    Nhập vào 1 mã sinh viên kiểm tra xem mã đã có trong từ điển hay ko nếu có nhập điểm mới và cập nhật điểm,
+    nếu không có thì thông báo
+    Tạo 1 từ điển là danh sách các sinh viên thi lại sau đó thực hiện cập nhật điểm Sv

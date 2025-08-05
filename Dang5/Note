@@ -1,0 +1,12 @@
+Dạng 5 : tính tổng của 1 công thức/ chuỗi số
+
+in: n (n,x)
+out: sum
+
+-- def sum(n[,x]):
+    s=0
+    for i in range (a,b):
+        if conditions :
+            s = s+x
+    return s
+

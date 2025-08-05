@@ -1,0 +1,43 @@
+DẠNG 6 : LÀM VIỆC VỚI lIST
+
+Dạng 1 : Tạo các danh sách , mỗi danh sách chứa các kiểu khác nhau
+
+Dạng 2 : Tạo danh sách mỗi danh sách chứa các giá trị thỏa mãn điều kiện nào đó
+
+Phương pháp 1 : Sử dụng các hàm của list
+
+Phương pháp 2 : sử dụng phương pháp sinh genderate
+
+BT1 : viết chương trình nhập vào số nguyên dương n sau đó nhập n giá trị với các kiểu dữ liệu khác nhau
+    1. Nếu kiểu dữ liệu là nguyên or thực thêm vào danh sách A, ngược lại thì thêm vào danh sách B
+    sau đó in ra trung bình cộng các số trong danh sách A
+    và các phần tử trong danh sách B mỗi phần tử cách nhau bởi dấu (-)
+
+BT2 : Nhập vào 3 số nguyên dương n a b
+    1. Đưa ra các số chia hết cho a và b <= n
+    2. Đưa ra các số chia hết cho 3 nhưng không chia hết cho 4 <= n
+    3. Đưa ra các số chính phương chẵn <= n
+    
+BT3 : Viết chương trình nhập vào số nguyên N tạo danh sách gồm các số fibonacci <= N và in ra
+
+BT4 : Xét hàm f(x,y) = ax + by với a,b là hằng số cặp số x y là nghiệm của fx nếu fxy < N .
+    Viết chương trình nhập vào 3 số a , b , n đếm và in ra nghiệm của fx
+
+By  = N - ax
+y = (N - ax) / b
+
+x : 1 -> N//a
+y : 1 -> (N - ax) // b
+
+
+BT5 : Viết chương trình nhập vào số nguyên dương N đưa ra 1 bộ 4 số phân tích từ N thành 4 số
+
+
+BT1 : Viết ct nhập vào 1 xâu ký tự chứa các số nguyên cách nhau , và 1 số nguyên n . tìm tất cả các cặp số trong dãy vừa nhập tổng bằng N.
+input : chuoi , N
+output : (a,b) and (a + b= N)
+
+BT2 : Viết ct nhập vào số nguyên dương a b n tìm các cặp số x y sao cho a**2 * x + by < N
+
+BT3 : Nhập vào 1 số nguyên dương N in ra các số nguyên dương < n có tổng các ước số thực sự lớn hơn chính nó
+

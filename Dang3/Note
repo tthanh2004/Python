@@ -1,0 +1,10 @@
+Dạng 3 : Đếm số chính phương , nguyên tố , fibonacci , chẵn lẻ , ...
+
+x belong to [n,m] => range (n,m+1)
+
+BT1 : Viết ct nhập vào 2 số n , m
+1. Đếm số chính phương thuộc đoạn [1,n]
+2. Đếm số chính phương chẵn thuộc đoạn (n,m)
+3. Đếm số chia hết cho 3 nhưng không chia hết cho 5 thuộc [n,m]
+
+BT2 : dem cac so fibonacci trong khoang [n,m]

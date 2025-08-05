@@ -1,0 +1,16 @@
+DẠNG 7 : Sử dụng tupble
+
+Phương pháp : Dùng các hàm của tupble
+
+BT1 : viết ct nhập vào số nguyên dương m n kiểm tra tính hợp lệ của m n
+    Tạo 1 tupble là các số chính phương năm trong khoảng m n or n m
+BT2 : Viết ct nhập vào 1 dãy số nguyên lưu vào 1 tupble việc nhập kết thúc khi người nhập 0
+    Kiểm tra dãy số vừa nhập nếu dãy số rỗng thì in ra "Dãy rỗng"
+    Nếu tất cả các số là số âm thì đưa ra tổng
+    Nếu có ít nhất 1 số âm thì đưa ra các số không âm
+    Nếu dãy không có số âm nào thì tính trung bình cộng
+
+BT3 : Viết chương trình nhập vào 1 dãy số thực đến khi người dùng nhập 0 thì dừng
+    Sắp xếp các số dương ở đầu theo chiều giảm dần , các số âm ở cuối theo chiều tăng dần
+BT4 : Viết chương trình nhập vào liên tiếp 1 dãy số các dãy số các nhau bởi dấu ,
+    Tạo 2 tuple 1 chứa các số chính phương 1 tuple chứa các số còn lại

@@ -1,0 +1,7 @@
+Dạng 2 : Đưa ra dãy số thỏa mãn điều kiện (chẵn, lẻ, fibonacci, tribonacci,...)
+
+BT1 : Viết chương trình nhập vào số nguyên dương n,m
+    Đưa ra các số chính phương trong đoạn n,m
+
+BT2 : Viet chuong trinh nhap vao so nguyen duong n,m
+    Chia het cho 2 va 3 trong khoan n,m or m,n

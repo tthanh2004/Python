@@ -1,0 +1,10 @@
+BT1: Viết chương trình nhập vào n dữ liệu các giá trị thuộc nhiều kiểu dữ liệu .
+    Nếu giá trị là nguyên thêm và danh sách A lưu danh sách A và đếm số chính phương trong danh sách A,
+    nếu giá trị là số thực thì thêm vào tuple B, in tuple B và in ra số nhỏ hơn số lớn nhất,
+    ngược lại thêm vào set C đưa ra số lượng cùng các phần tử có độ dài lớn nhất trong set C
+BT2: Viết chương trình nhập vào số nguyên dương A , B , C , n in ra cặp số tự nhiên x , y
+    thỏa mãn ABx + By + C < n (Tối ưu thuật toán)
+
+BT3: Viết chương trình nhập vào 1 xâu ký tự kiểm tra xâu ký tự có phải là xâu ký tự con của xâu còn lại k
+    Nếu đúng thì chuẩn hóa 2 xâu bỏ khoảng cách thừa đầu và cuối chỉ giữ lại 1 ký tự đầu của 1 chữ viết hoa
+    ngược lại đưa ra thành phần khác giữa 2 xâu , nhập vào 1 số k in ra tất cả các từ có độ dài > k
