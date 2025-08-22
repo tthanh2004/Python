@@ -9,7 +9,7 @@ def checkXau(xaukytu):
 
     print(loaiso)
 
-    tucandem = input("Nhap tuc an dem: ")
+    tucandem = input("Nhap tu an dem: ")
     dem = xaukytu.count(tucandem)
 
     print(dem)

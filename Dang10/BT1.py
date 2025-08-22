@@ -1,19 +1,28 @@
-def nhapDiem():
-    diem = int(input("Nhap diem: "))
+def nhapDiem(i):
+    diem = int(input(f"Diem {i}: "))
     if diem < 0 or diem > 10:
         while True:
-            diem = int(input("Nhap lai diem: "))
+            diem = int(input(f"Diem {i}: "))
             if diem >= 0 and diem <= 10:
                 break
     return diem
 
+def printTable(sv_dict, title="Danh sach sinh vien"):
+    print("| Ma SV  | Diem |")
+    for msv, diem in sv_dict.items():
+        print(f"| {msv:<6} | {diem:<4} |")
+    print("+--------+------+")
+
+
 def createDict():
+    i = 1
     sv_dict = {}
     while True:
-        msv = input("Nhap ma sinh vien: ")
+        msv = input(f"Ma {i}: ")
         if msv == '':
             break
-        diem = nhapDiem()
+        diem = nhapDiem(i)
+        i += 1
         sv_dict[msv] = diem
 
     return sv_dict
@@ -37,7 +46,7 @@ def maxDiem(sv_dict):
 
 def capnhatDiem(sv_dict):
     msvSearch = input("Nhap vao ma sinh vien can tim kiem : ")
-    for msvSearch in sv_dict:
+    if msvSearch in sv_dict:
         diemNew = nhapDiem()
         sv_dict[msvSearch] = diemNew
     else:
@@ -52,7 +61,8 @@ def thiLai(sv_dict):
     return svThiLai
 
 sv_dict = createDict()
-print(sv_dict)
+printTable(sv_dict, "Danh sach ban dau")
+
 
 sv_dict = delSV(sv_dict)
 print(sv_dict)

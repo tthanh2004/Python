@@ -11,7 +11,7 @@ BT
 - Đến và đưa ra các từ có độ dài nhỏ nhất 
 
 2 Vt ch trình nhập vào xâu s1,s2
-- Ktra xem 1 xâu kia có phải là con của xâu hiện tại hay ko
-- Ktra xem 2 xâu có phải là xâu anagram hay ko, 2 xâu là anagram nếu cùng số và cùng kí tự 
-- Ktra xem xâu s1 có phải là xâu đối xứng hay ko
-- Thay thế tất cả các kí tự số trong xâu s2 thành $
+- Ktra xem 1 xâu kia có phải là con của xâu hiện tại hay ko --> dùng in
+- Ktra xem 2 xâu có phải là xâu anagram hay ko, 2 xâu là anagram nếu cùng số và cùng kí tự  --> s1 = replace.(" " , "").lower()
+- Ktra xem xâu s1 có phải là xâu đối xứng hay ko  --> s = s.replace.(" ","").lower() ; return s == s[::-1]
+- Thay thế tất cả các kí tự số trong xâu s2 thành $ --> for digit in s ; s = s.replace(digit , "$")

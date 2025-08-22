@@ -1,0 +1,28 @@
+BT1: Viết chương trình nhập vào 1 số thực x 
+    f(x) =  |e^x + loge(x+1)    x < 1
+            |sqrt(x+2) + |3-x|^2    1<=x<=5
+            |(x^2 - 1)/x*sqrt(x-2)  x  > 5
+
+BT2: Viết chương trình nhập vào dãy số nguyên trên cùng 1 dòng các số nguyên cách nhau bởi 1 khoảng trắng
+    Đưa tất cả các số nguyên tố vào tuple
+    Các số chính phương vào set()
+    Sắp xếp dãy số số dương ở đầu theo chiều giảm dần , số âm ở cuối theo chiều tăng dần
+
+BT3: Viết chương trình nhập vào 1 xâu ký tự đưa ra số từ ngắn nhất có trong xâu
+    Các từ ngắn nhất đưa vào 1 tuple
+
+BT4: Viết chương trình nhập vào số nguyên dương n đưa ra tổng các chữ số nguyên dương n
+    và đưa ra các chữ số của số nguyên dương n vào 1 danh sách
+
+------2------
+BT5:Viet chuong trinh nhap vao diem tich luy hoc kì và điểm rèn luyện đưa ra xếp loại , mức học bổng của sinh viên
+    dựa vào quy chế đào tạo của tlu
+
+BT6 : Nhập vào 1 xâu đưa ra các từ chỉ chứa ký tự là chữ số vào 1 tập hợp tuple, đưa ra các từ chỉ chứa ký tự là chữ cái vào 1 tập hợp set
+    đưa ra các từ còn lại vào list
+
+BT7 : Viết chương trình nhập vào 1 dãy số là các số thực cách nhau bởi dấu ,
+    Đếm xem có bn số âm , tính TBC các số dương
+
+BT8 : Viết chương trình nhập vào 1 số nguyên dương n tạo ra 1 từ điểm gồm các số fibonacci < n
+    sao cho key là số thứ tự của số fibonacci trong dãy fibonacci còn value là số fibo ở vị trí i

@@ -1,0 +1,5 @@
+BT5 : Viết chương trình nhập vào 1 dãy số thực cách nhau , tbc các số âm trong dãy
+
+BT6: Viết chương trình nhập vào 1 xâu ký tự , tìm và trả về từ dài nhất xuất hiện cuối cùng trong dãy vừa nhập
+    Chuẩn hóa xâu vừa nhập sao cho chữ cái đầu của mỗi từ viết hoa , các chữ khác viết thường giữa các từ chỉ đúng 1 dấu " "
+    Thực hiện việc xóa tất cả các ký tự là chữ số và các ký hiệu đặc biệt khỏi chuỗi

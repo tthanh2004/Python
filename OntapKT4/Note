@@ -1,0 +1,21 @@
+#C1 : 4đ -> list , range , set , tuple : dùng hàm
+
+#C2 : 3đ -> xâu kí tự
+
+#C3 : 3đ -> từ điển , tập hợp set và 1 số thuật toán khác
+    
+#BT1 : Nhập số nguyên dương n , m kiểm tra tính hợp lệ n , m phải là số nguyên dương, phải là kiểu số
+#   Nhập vào 1 dãy số gồm n số thực . tạo 1 tuple số chính phương ở đầu giảm dần các số còn lại ở cuối tăng dần
+#   tạo 1 list gồm các số chia hết cho 5 nằm trong đoạn n , m or n , m
+
+#BT2 : Nhập vào 1 xâu ký tự đến khi khác rỗng , đếm số từ xuất hiện trong xâu và đưa ra các từ có độ dài
+#   các từ có độ dài lớn và nhỏ nhất
+
+#BT3 : Viết chương trình tạo 1 từ điển chứa n sản phẩm với keys : msp , values : sl
+#   Nhập mới 1 mã sp, nếu mã tồn tại trong từ điển xóa khỏi từ điển nếu chưa thêm vào
+#   Đưa ra danh sách mã các sản phẩm có số lượng nhỏ nhất dưới dạng 1 tuple
+
+#BT4 : Viết ct nhập vào danh sách mnv là ctv trong 2 dại lý bảo hiểm việc.
+#   Nhập mnv khi người dùng nhập 1 xâu rỗng đưa ra danh sách mã nv chỉ tg đại lý 1 mà không tg đại lý 2 tuple
+#   Đếm số nv tham gia 2 đại lý
+#   Đưa ra danh sách mã nv không thâm gia đồng thời 2 đại lý dưới dạng 1 set
